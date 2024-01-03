@@ -9,3 +9,4 @@
    ![](C:\Users\TEZHAO\Pictures\Screenshots\3.png)
 5. 点击Git->GitHub->Share Project on Github
 6. 认证方式选择Token将生成的token复制后测试成功
+7. 测试代码
